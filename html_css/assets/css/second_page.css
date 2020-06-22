@@ -1,0 +1,12 @@
+#d{
+    background-image: url("../images/ET15HT.jpg");
+}
+
+.headerDivider {
+     border-left:1px solid #38546d; 
+     border-right:1px solid #16222c; 
+     
+     position:absolute;
+     right:249px;
+     top:10px; 
+}
